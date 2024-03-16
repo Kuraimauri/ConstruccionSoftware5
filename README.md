@@ -1,5 +1,4 @@
 # Construccion de Software 5
-## Construcción de Software 5 - Tecnológico de Antioquia
 ---
 En este repositorio se encuentra el código para el curso
 | Proyecto | Material de estudio (videos) |
