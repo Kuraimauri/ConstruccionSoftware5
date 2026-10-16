@@ -1,0 +1,10 @@
+<api type="debug" assembly-name="04-ConsumoServicioWeb" mvid="343a5bc27b8e4aea86753fd616356b30">
+  <java-to-managed>
+    <entry java-name="crc64b5a876401182eb76/MainActivity" managed-name="_04_ConsumoServicioWeb.MainActivity, 04-ConsumoServicioWeb" managed-type-token-id="33554441" />
+    <entry java-name="crc64b5a876401182eb76/MainApplication" managed-name="_04_ConsumoServicioWeb.MainApplication, 04-ConsumoServicioWeb" managed-type-token-id="33554442" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="crc64b5a876401182eb76/MainActivity" managed-name="_04_ConsumoServicioWeb.MainActivity, 04-ConsumoServicioWeb" managed-type-token-id="33554441" />
+    <entry java-name="crc64b5a876401182eb76/MainApplication" managed-name="_04_ConsumoServicioWeb.MainApplication, 04-ConsumoServicioWeb" managed-type-token-id="33554442" />
+  </managed-to-java>
+</api>

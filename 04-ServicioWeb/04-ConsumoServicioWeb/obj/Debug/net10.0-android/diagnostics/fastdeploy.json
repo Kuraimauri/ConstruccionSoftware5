@@ -1,0 +1,18 @@
+{
+  "Task": "FastDeploy",
+  "Properties": {
+    "target.prop.ro.product.build.version.sdk": "28",
+    "target.prop.ro.product.cpu.abilist": "x86_64;x86",
+    "target.prop.ro.product.manufacturer": "Google",
+    "target.prop.ro.product.model": "Android SDK built for x86_64",
+    "target.prop.ro.product.cpu.abi": "x86_64",
+    "deploy.error.code": "ADB1000",
+    "deploy.tool": "xamarin.sync",
+    "deploy.result": "Failed",
+    "deploy.supports.fastdev": "True",
+    "deploy.systemapp": "False",
+    "deploy.duration.ms": "15828",
+    "pii.deploy.error": "Mono.AndroidTools.AdbException: secure_mkdirs failed: Operation not permitted\r\n   at Mono.AndroidTools.Util.AggregateAsyncResult.CheckError(CancellationToken token)\r\n   at Mono.AndroidTools.Adb.AdbSyncClient.EndPush(IAsyncResult result)\r\n   at System.Threading.Tasks.TaskFactory\u00601.FromAsyncCoreLogic(IAsyncResult iar, Func\u00602 endFunction, Action\u00601 endAction, Task\u00601 promise, Boolean requiresSynchronization)\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\r\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\r\n   at Xamarin.Android.Tasks.FastDeploy.\u003CPushStreamToDeviceWithTool\u003Ed__128.MoveNext()",
+    "pii.deploy.file": "environment"
+  }
+}
